@@ -33,8 +33,8 @@ Website portofolio pribadi yang menampilkan profil, proyek, keahlian, pengalaman
 1. Clone repository dan masuk ke folder proyek:
 
    ```bash
-   git clone https://github.com/zaidanstudying-creator/web-porto-final-zaidan.git
-   cd web-porto-final-zaidan
+   git clone https://github.com/zaidanstudying-creator/project-website-portfolio-zaidan-260558302007.git
+   cd project-website-portfolio-zaidan-260558302007
    ```
 
 2. Pasang dependensi:
